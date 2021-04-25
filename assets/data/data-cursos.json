@@ -10,6 +10,11 @@
         "code":"ari"
     },
     {
+        "nombre":"Arquitectura",
+        "nombreCorto":"Arq",
+        "code":"arq"
+    },
+    {
         "nombre":"Física",
         "nombreCorto":"Fís",
         "code":"fis"
@@ -28,11 +33,6 @@
         "nombre":"Trigonometría",
         "nombreCorto":"Tri",
         "code":"tri"
-    },
-    {
-        "nombre":"Arquitectura",
-        "nombreCorto":"Arq",
-        "code":"arq"
     }
 
 ]
