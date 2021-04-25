@@ -1,0 +1,38 @@
+[
+    {
+        "nombre":" Álgebra",
+        "nombreCorto":"Alg",
+        "code":"alg"
+    },
+    {
+        "nombre":"Aritmética",
+        "nombreCorto":"Ari",
+        "code":"ari"
+    },
+    {
+        "nombre":"Física",
+        "nombreCorto":"Fís",
+        "code":"fis"
+    },
+    {
+        "nombre":"Geometría",
+        "nombreCorto":"Geo",
+        "code":"geo"
+    },
+    {
+        "nombre":"Química",
+        "nombreCorto":"Quí",
+        "code":"qui"
+    },
+    {
+        "nombre":"Trigonometría",
+        "nombreCorto":"Tri",
+        "code":"tri"
+    },
+    {
+        "nombre":"Arquitectura",
+        "nombreCorto":"Arq",
+        "code":"arq"
+    }
+
+]
